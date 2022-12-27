@@ -1,0 +1,13 @@
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\bin\Debug\calculator.exe.config
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\bin\Debug\calculator.exe
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\bin\Debug\calculator.pdb
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\bin\Debug\Guna.UI2.dll
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.Form1.resources
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.csproj.CopyComplete
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.exe
+E:\Computer Science\Community\ICPC\Projects\Visual Studio\CodesFilter\calculator\obj\Debug\calculator.pdb
